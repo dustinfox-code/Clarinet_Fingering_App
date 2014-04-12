@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E9B334B18F86F3F00BBC39F"
+               BlueprintIdentifier = "9EA2ECF918F9F07200F6AB53"
                BuildableName = "Clarinet Fingering Chart.app"
                BlueprintName = "Clarinet Fingering Chart"
                ReferencedContainer = "container:Clarinet Fingering Chart.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E9B336C18F86F3F00BBC39F"
+               BlueprintIdentifier = "9EA2ED1A18F9F07300F6AB53"
                BuildableName = "Clarinet Fingering ChartTests.xctest"
                BlueprintName = "Clarinet Fingering ChartTests"
                ReferencedContainer = "container:Clarinet Fingering Chart.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E9B334B18F86F3F00BBC39F"
+            BlueprintIdentifier = "9EA2ECF918F9F07200F6AB53"
             BuildableName = "Clarinet Fingering Chart.app"
             BlueprintName = "Clarinet Fingering Chart"
             ReferencedContainer = "container:Clarinet Fingering Chart.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E9B334B18F86F3F00BBC39F"
+            BlueprintIdentifier = "9EA2ECF918F9F07200F6AB53"
             BuildableName = "Clarinet Fingering Chart.app"
             BlueprintName = "Clarinet Fingering Chart"
             ReferencedContainer = "container:Clarinet Fingering Chart.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9E9B334B18F86F3F00BBC39F"
+            BlueprintIdentifier = "9EA2ECF918F9F07200F6AB53"
             BuildableName = "Clarinet Fingering Chart.app"
             BlueprintName = "Clarinet Fingering Chart"
             ReferencedContainer = "container:Clarinet Fingering Chart.xcodeproj">

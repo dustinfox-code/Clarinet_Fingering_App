@@ -2,7 +2,7 @@
 //  DFViewController.m
 //  Clarinet Fingering Chart
 //
-//  Created by Dustin Fox on 4/11/14.
+//  Created by Dustin Fox on 4/12/14.
 //  Copyright (c) 2014 Dustin Fox. All rights reserved.
 //
 
@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    self.staffLineImageView = [[UIImageView alloc] initWithImage:([UIImage imageNamed:@"staffLine"])];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

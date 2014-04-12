@@ -7,147 +7,147 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9E9B335018F86F3F00BBC39F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B334F18F86F3F00BBC39F /* Foundation.framework */; };
-		9E9B335218F86F3F00BBC39F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B335118F86F3F00BBC39F /* CoreGraphics.framework */; };
-		9E9B335418F86F3F00BBC39F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B335318F86F3F00BBC39F /* UIKit.framework */; };
-		9E9B335A18F86F3F00BBC39F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B335818F86F3F00BBC39F /* InfoPlist.strings */; };
-		9E9B335C18F86F3F00BBC39F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E9B335B18F86F3F00BBC39F /* main.m */; };
-		9E9B336018F86F3F00BBC39F /* DFAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E9B335F18F86F3F00BBC39F /* DFAppDelegate.m */; };
-		9E9B336318F86F3F00BBC39F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B336118F86F3F00BBC39F /* Main.storyboard */; };
-		9E9B336618F86F3F00BBC39F /* DFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E9B336518F86F3F00BBC39F /* DFViewController.m */; };
-		9E9B336818F86F3F00BBC39F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B336718F86F3F00BBC39F /* Images.xcassets */; };
-		9E9B336F18F86F3F00BBC39F /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B336E18F86F3F00BBC39F /* XCTest.framework */; };
-		9E9B337018F86F3F00BBC39F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B334F18F86F3F00BBC39F /* Foundation.framework */; };
-		9E9B337118F86F3F00BBC39F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9E9B335318F86F3F00BBC39F /* UIKit.framework */; };
-		9E9B337918F86F3F00BBC39F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E9B337718F86F3F00BBC39F /* InfoPlist.strings */; };
-		9E9B337B18F86F3F00BBC39F /* Clarinet_Fingering_ChartTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E9B337A18F86F3F00BBC39F /* Clarinet_Fingering_ChartTests.m */; };
+		9EA2ECFE18F9F07200F6AB53 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ECFD18F9F07200F6AB53 /* Foundation.framework */; };
+		9EA2ED0018F9F07200F6AB53 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ECFF18F9F07200F6AB53 /* CoreGraphics.framework */; };
+		9EA2ED0218F9F07200F6AB53 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ED0118F9F07200F6AB53 /* UIKit.framework */; };
+		9EA2ED0818F9F07200F6AB53 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2ED0618F9F07200F6AB53 /* InfoPlist.strings */; };
+		9EA2ED0A18F9F07200F6AB53 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2ED0918F9F07200F6AB53 /* main.m */; };
+		9EA2ED0E18F9F07200F6AB53 /* DFAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2ED0D18F9F07200F6AB53 /* DFAppDelegate.m */; };
+		9EA2ED1118F9F07200F6AB53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2ED0F18F9F07200F6AB53 /* Main.storyboard */; };
+		9EA2ED1418F9F07200F6AB53 /* DFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2ED1318F9F07200F6AB53 /* DFViewController.m */; };
+		9EA2ED1618F9F07200F6AB53 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2ED1518F9F07200F6AB53 /* Images.xcassets */; };
+		9EA2ED1D18F9F07300F6AB53 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ED1C18F9F07300F6AB53 /* XCTest.framework */; };
+		9EA2ED1E18F9F07300F6AB53 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ECFD18F9F07200F6AB53 /* Foundation.framework */; };
+		9EA2ED1F18F9F07300F6AB53 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EA2ED0118F9F07200F6AB53 /* UIKit.framework */; };
+		9EA2ED2718F9F07300F6AB53 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9EA2ED2518F9F07300F6AB53 /* InfoPlist.strings */; };
+		9EA2ED2918F9F07300F6AB53 /* Clarinet_Fingering_ChartTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9EA2ED2818F9F07300F6AB53 /* Clarinet_Fingering_ChartTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9E9B337218F86F3F00BBC39F /* PBXContainerItemProxy */ = {
+		9EA2ED2018F9F07300F6AB53 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9E9B334418F86F3F00BBC39F /* Project object */;
+			containerPortal = 9EA2ECF218F9F07200F6AB53 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9E9B334B18F86F3F00BBC39F;
+			remoteGlobalIDString = 9EA2ECF918F9F07200F6AB53;
 			remoteInfo = "Clarinet Fingering Chart";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9E9B334C18F86F3F00BBC39F /* Clarinet Fingering Chart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clarinet Fingering Chart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9E9B334F18F86F3F00BBC39F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		9E9B335118F86F3F00BBC39F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		9E9B335318F86F3F00BBC39F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		9E9B335718F86F3F00BBC39F /* Clarinet Fingering Chart-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Clarinet Fingering Chart-Info.plist"; sourceTree = "<group>"; };
-		9E9B335918F86F3F00BBC39F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		9E9B335B18F86F3F00BBC39F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		9E9B335D18F86F3F00BBC39F /* Clarinet Fingering Chart-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Clarinet Fingering Chart-Prefix.pch"; sourceTree = "<group>"; };
-		9E9B335E18F86F3F00BBC39F /* DFAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFAppDelegate.h; sourceTree = "<group>"; };
-		9E9B335F18F86F3F00BBC39F /* DFAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DFAppDelegate.m; sourceTree = "<group>"; };
-		9E9B336218F86F3F00BBC39F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9E9B336418F86F3F00BBC39F /* DFViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFViewController.h; sourceTree = "<group>"; };
-		9E9B336518F86F3F00BBC39F /* DFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DFViewController.m; sourceTree = "<group>"; };
-		9E9B336718F86F3F00BBC39F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		9E9B336D18F86F3F00BBC39F /* Clarinet Fingering ChartTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clarinet Fingering ChartTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9E9B336E18F86F3F00BBC39F /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		9E9B337618F86F3F00BBC39F /* Clarinet Fingering ChartTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Clarinet Fingering ChartTests-Info.plist"; sourceTree = "<group>"; };
-		9E9B337818F86F3F00BBC39F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		9E9B337A18F86F3F00BBC39F /* Clarinet_Fingering_ChartTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Clarinet_Fingering_ChartTests.m; sourceTree = "<group>"; };
+		9EA2ECFA18F9F07200F6AB53 /* Clarinet Fingering Chart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Clarinet Fingering Chart.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EA2ECFD18F9F07200F6AB53 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		9EA2ECFF18F9F07200F6AB53 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		9EA2ED0118F9F07200F6AB53 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		9EA2ED0518F9F07200F6AB53 /* Clarinet Fingering Chart-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Clarinet Fingering Chart-Info.plist"; sourceTree = "<group>"; };
+		9EA2ED0718F9F07200F6AB53 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9EA2ED0918F9F07200F6AB53 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9EA2ED0B18F9F07200F6AB53 /* Clarinet Fingering Chart-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Clarinet Fingering Chart-Prefix.pch"; sourceTree = "<group>"; };
+		9EA2ED0C18F9F07200F6AB53 /* DFAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFAppDelegate.h; sourceTree = "<group>"; };
+		9EA2ED0D18F9F07200F6AB53 /* DFAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DFAppDelegate.m; sourceTree = "<group>"; };
+		9EA2ED1018F9F07200F6AB53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9EA2ED1218F9F07200F6AB53 /* DFViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DFViewController.h; sourceTree = "<group>"; };
+		9EA2ED1318F9F07200F6AB53 /* DFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DFViewController.m; sourceTree = "<group>"; };
+		9EA2ED1518F9F07200F6AB53 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		9EA2ED1B18F9F07300F6AB53 /* Clarinet Fingering ChartTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Clarinet Fingering ChartTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EA2ED1C18F9F07300F6AB53 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		9EA2ED2418F9F07300F6AB53 /* Clarinet Fingering ChartTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Clarinet Fingering ChartTests-Info.plist"; sourceTree = "<group>"; };
+		9EA2ED2618F9F07300F6AB53 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		9EA2ED2818F9F07300F6AB53 /* Clarinet_Fingering_ChartTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Clarinet_Fingering_ChartTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9E9B334918F86F3F00BBC39F /* Frameworks */ = {
+		9EA2ECF718F9F07200F6AB53 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B335218F86F3F00BBC39F /* CoreGraphics.framework in Frameworks */,
-				9E9B335418F86F3F00BBC39F /* UIKit.framework in Frameworks */,
-				9E9B335018F86F3F00BBC39F /* Foundation.framework in Frameworks */,
+				9EA2ED0018F9F07200F6AB53 /* CoreGraphics.framework in Frameworks */,
+				9EA2ED0218F9F07200F6AB53 /* UIKit.framework in Frameworks */,
+				9EA2ECFE18F9F07200F6AB53 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9E9B336A18F86F3F00BBC39F /* Frameworks */ = {
+		9EA2ED1818F9F07300F6AB53 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B336F18F86F3F00BBC39F /* XCTest.framework in Frameworks */,
-				9E9B337118F86F3F00BBC39F /* UIKit.framework in Frameworks */,
-				9E9B337018F86F3F00BBC39F /* Foundation.framework in Frameworks */,
+				9EA2ED1D18F9F07300F6AB53 /* XCTest.framework in Frameworks */,
+				9EA2ED1F18F9F07300F6AB53 /* UIKit.framework in Frameworks */,
+				9EA2ED1E18F9F07300F6AB53 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9E9B334318F86F3F00BBC39F = {
+		9EA2ECF118F9F07200F6AB53 = {
 			isa = PBXGroup;
 			children = (
-				9E9B335518F86F3F00BBC39F /* Clarinet Fingering Chart */,
-				9E9B337418F86F3F00BBC39F /* Clarinet Fingering ChartTests */,
-				9E9B334E18F86F3F00BBC39F /* Frameworks */,
-				9E9B334D18F86F3F00BBC39F /* Products */,
+				9EA2ED0318F9F07200F6AB53 /* Clarinet Fingering Chart */,
+				9EA2ED2218F9F07300F6AB53 /* Clarinet Fingering ChartTests */,
+				9EA2ECFC18F9F07200F6AB53 /* Frameworks */,
+				9EA2ECFB18F9F07200F6AB53 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9E9B334D18F86F3F00BBC39F /* Products */ = {
+		9EA2ECFB18F9F07200F6AB53 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B334C18F86F3F00BBC39F /* Clarinet Fingering Chart.app */,
-				9E9B336D18F86F3F00BBC39F /* Clarinet Fingering ChartTests.xctest */,
+				9EA2ECFA18F9F07200F6AB53 /* Clarinet Fingering Chart.app */,
+				9EA2ED1B18F9F07300F6AB53 /* Clarinet Fingering ChartTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9E9B334E18F86F3F00BBC39F /* Frameworks */ = {
+		9EA2ECFC18F9F07200F6AB53 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B334F18F86F3F00BBC39F /* Foundation.framework */,
-				9E9B335118F86F3F00BBC39F /* CoreGraphics.framework */,
-				9E9B335318F86F3F00BBC39F /* UIKit.framework */,
-				9E9B336E18F86F3F00BBC39F /* XCTest.framework */,
+				9EA2ECFD18F9F07200F6AB53 /* Foundation.framework */,
+				9EA2ECFF18F9F07200F6AB53 /* CoreGraphics.framework */,
+				9EA2ED0118F9F07200F6AB53 /* UIKit.framework */,
+				9EA2ED1C18F9F07300F6AB53 /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		9E9B335518F86F3F00BBC39F /* Clarinet Fingering Chart */ = {
+		9EA2ED0318F9F07200F6AB53 /* Clarinet Fingering Chart */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B335E18F86F3F00BBC39F /* DFAppDelegate.h */,
-				9E9B335F18F86F3F00BBC39F /* DFAppDelegate.m */,
-				9E9B336118F86F3F00BBC39F /* Main.storyboard */,
-				9E9B336418F86F3F00BBC39F /* DFViewController.h */,
-				9E9B336518F86F3F00BBC39F /* DFViewController.m */,
-				9E9B336718F86F3F00BBC39F /* Images.xcassets */,
-				9E9B335618F86F3F00BBC39F /* Supporting Files */,
+				9EA2ED0C18F9F07200F6AB53 /* DFAppDelegate.h */,
+				9EA2ED0D18F9F07200F6AB53 /* DFAppDelegate.m */,
+				9EA2ED0F18F9F07200F6AB53 /* Main.storyboard */,
+				9EA2ED1218F9F07200F6AB53 /* DFViewController.h */,
+				9EA2ED1318F9F07200F6AB53 /* DFViewController.m */,
+				9EA2ED1518F9F07200F6AB53 /* Images.xcassets */,
+				9EA2ED0418F9F07200F6AB53 /* Supporting Files */,
 			);
 			path = "Clarinet Fingering Chart";
 			sourceTree = "<group>";
 		};
-		9E9B335618F86F3F00BBC39F /* Supporting Files */ = {
+		9EA2ED0418F9F07200F6AB53 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B335718F86F3F00BBC39F /* Clarinet Fingering Chart-Info.plist */,
-				9E9B335818F86F3F00BBC39F /* InfoPlist.strings */,
-				9E9B335B18F86F3F00BBC39F /* main.m */,
-				9E9B335D18F86F3F00BBC39F /* Clarinet Fingering Chart-Prefix.pch */,
+				9EA2ED0518F9F07200F6AB53 /* Clarinet Fingering Chart-Info.plist */,
+				9EA2ED0618F9F07200F6AB53 /* InfoPlist.strings */,
+				9EA2ED0918F9F07200F6AB53 /* main.m */,
+				9EA2ED0B18F9F07200F6AB53 /* Clarinet Fingering Chart-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		9E9B337418F86F3F00BBC39F /* Clarinet Fingering ChartTests */ = {
+		9EA2ED2218F9F07300F6AB53 /* Clarinet Fingering ChartTests */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B337A18F86F3F00BBC39F /* Clarinet_Fingering_ChartTests.m */,
-				9E9B337518F86F3F00BBC39F /* Supporting Files */,
+				9EA2ED2818F9F07300F6AB53 /* Clarinet_Fingering_ChartTests.m */,
+				9EA2ED2318F9F07300F6AB53 /* Supporting Files */,
 			);
 			path = "Clarinet Fingering ChartTests";
 			sourceTree = "<group>";
 		};
-		9E9B337518F86F3F00BBC39F /* Supporting Files */ = {
+		9EA2ED2318F9F07300F6AB53 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9E9B337618F86F3F00BBC39F /* Clarinet Fingering ChartTests-Info.plist */,
-				9E9B337718F86F3F00BBC39F /* InfoPlist.strings */,
+				9EA2ED2418F9F07300F6AB53 /* Clarinet Fingering ChartTests-Info.plist */,
+				9EA2ED2518F9F07300F6AB53 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -155,13 +155,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9E9B334B18F86F3F00BBC39F /* Clarinet Fingering Chart */ = {
+		9EA2ECF918F9F07200F6AB53 /* Clarinet Fingering Chart */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9E9B337E18F86F3F00BBC39F /* Build configuration list for PBXNativeTarget "Clarinet Fingering Chart" */;
+			buildConfigurationList = 9EA2ED2C18F9F07300F6AB53 /* Build configuration list for PBXNativeTarget "Clarinet Fingering Chart" */;
 			buildPhases = (
-				9E9B334818F86F3F00BBC39F /* Sources */,
-				9E9B334918F86F3F00BBC39F /* Frameworks */,
-				9E9B334A18F86F3F00BBC39F /* Resources */,
+				9EA2ECF618F9F07200F6AB53 /* Sources */,
+				9EA2ECF718F9F07200F6AB53 /* Frameworks */,
+				9EA2ECF818F9F07200F6AB53 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -169,43 +169,43 @@
 			);
 			name = "Clarinet Fingering Chart";
 			productName = "Clarinet Fingering Chart";
-			productReference = 9E9B334C18F86F3F00BBC39F /* Clarinet Fingering Chart.app */;
+			productReference = 9EA2ECFA18F9F07200F6AB53 /* Clarinet Fingering Chart.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9E9B336C18F86F3F00BBC39F /* Clarinet Fingering ChartTests */ = {
+		9EA2ED1A18F9F07300F6AB53 /* Clarinet Fingering ChartTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9E9B338118F86F3F00BBC39F /* Build configuration list for PBXNativeTarget "Clarinet Fingering ChartTests" */;
+			buildConfigurationList = 9EA2ED2F18F9F07300F6AB53 /* Build configuration list for PBXNativeTarget "Clarinet Fingering ChartTests" */;
 			buildPhases = (
-				9E9B336918F86F3F00BBC39F /* Sources */,
-				9E9B336A18F86F3F00BBC39F /* Frameworks */,
-				9E9B336B18F86F3F00BBC39F /* Resources */,
+				9EA2ED1718F9F07300F6AB53 /* Sources */,
+				9EA2ED1818F9F07300F6AB53 /* Frameworks */,
+				9EA2ED1918F9F07300F6AB53 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9E9B337318F86F3F00BBC39F /* PBXTargetDependency */,
+				9EA2ED2118F9F07300F6AB53 /* PBXTargetDependency */,
 			);
 			name = "Clarinet Fingering ChartTests";
 			productName = "Clarinet Fingering ChartTests";
-			productReference = 9E9B336D18F86F3F00BBC39F /* Clarinet Fingering ChartTests.xctest */;
+			productReference = 9EA2ED1B18F9F07300F6AB53 /* Clarinet Fingering ChartTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9E9B334418F86F3F00BBC39F /* Project object */ = {
+		9EA2ECF218F9F07200F6AB53 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = DF;
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Dustin Fox";
 				TargetAttributes = {
-					9E9B336C18F86F3F00BBC39F = {
-						TestTargetID = 9E9B334B18F86F3F00BBC39F;
+					9EA2ED1A18F9F07300F6AB53 = {
+						TestTargetID = 9EA2ECF918F9F07200F6AB53;
 					};
 				};
 			};
-			buildConfigurationList = 9E9B334718F86F3F00BBC39F /* Build configuration list for PBXProject "Clarinet Fingering Chart" */;
+			buildConfigurationList = 9EA2ECF518F9F07200F6AB53 /* Build configuration list for PBXProject "Clarinet Fingering Chart" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -213,88 +213,88 @@
 				en,
 				Base,
 			);
-			mainGroup = 9E9B334318F86F3F00BBC39F;
-			productRefGroup = 9E9B334D18F86F3F00BBC39F /* Products */;
+			mainGroup = 9EA2ECF118F9F07200F6AB53;
+			productRefGroup = 9EA2ECFB18F9F07200F6AB53 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9E9B334B18F86F3F00BBC39F /* Clarinet Fingering Chart */,
-				9E9B336C18F86F3F00BBC39F /* Clarinet Fingering ChartTests */,
+				9EA2ECF918F9F07200F6AB53 /* Clarinet Fingering Chart */,
+				9EA2ED1A18F9F07300F6AB53 /* Clarinet Fingering ChartTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9E9B334A18F86F3F00BBC39F /* Resources */ = {
+		9EA2ECF818F9F07200F6AB53 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B336818F86F3F00BBC39F /* Images.xcassets in Resources */,
-				9E9B335A18F86F3F00BBC39F /* InfoPlist.strings in Resources */,
-				9E9B336318F86F3F00BBC39F /* Main.storyboard in Resources */,
+				9EA2ED1618F9F07200F6AB53 /* Images.xcassets in Resources */,
+				9EA2ED0818F9F07200F6AB53 /* InfoPlist.strings in Resources */,
+				9EA2ED1118F9F07200F6AB53 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9E9B336B18F86F3F00BBC39F /* Resources */ = {
+		9EA2ED1918F9F07300F6AB53 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B337918F86F3F00BBC39F /* InfoPlist.strings in Resources */,
+				9EA2ED2718F9F07300F6AB53 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9E9B334818F86F3F00BBC39F /* Sources */ = {
+		9EA2ECF618F9F07200F6AB53 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B336018F86F3F00BBC39F /* DFAppDelegate.m in Sources */,
-				9E9B336618F86F3F00BBC39F /* DFViewController.m in Sources */,
-				9E9B335C18F86F3F00BBC39F /* main.m in Sources */,
+				9EA2ED0E18F9F07200F6AB53 /* DFAppDelegate.m in Sources */,
+				9EA2ED1418F9F07200F6AB53 /* DFViewController.m in Sources */,
+				9EA2ED0A18F9F07200F6AB53 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9E9B336918F86F3F00BBC39F /* Sources */ = {
+		9EA2ED1718F9F07300F6AB53 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9B337B18F86F3F00BBC39F /* Clarinet_Fingering_ChartTests.m in Sources */,
+				9EA2ED2918F9F07300F6AB53 /* Clarinet_Fingering_ChartTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9E9B337318F86F3F00BBC39F /* PBXTargetDependency */ = {
+		9EA2ED2118F9F07300F6AB53 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9E9B334B18F86F3F00BBC39F /* Clarinet Fingering Chart */;
-			targetProxy = 9E9B337218F86F3F00BBC39F /* PBXContainerItemProxy */;
+			target = 9EA2ECF918F9F07200F6AB53 /* Clarinet Fingering Chart */;
+			targetProxy = 9EA2ED2018F9F07300F6AB53 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9E9B335818F86F3F00BBC39F /* InfoPlist.strings */ = {
+		9EA2ED0618F9F07200F6AB53 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9E9B335918F86F3F00BBC39F /* en */,
+				9EA2ED0718F9F07200F6AB53 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		9E9B336118F86F3F00BBC39F /* Main.storyboard */ = {
+		9EA2ED0F18F9F07200F6AB53 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9E9B336218F86F3F00BBC39F /* Base */,
+				9EA2ED1018F9F07200F6AB53 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9E9B337718F86F3F00BBC39F /* InfoPlist.strings */ = {
+		9EA2ED2518F9F07300F6AB53 /* InfoPlist.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9E9B337818F86F3F00BBC39F /* en */,
+				9EA2ED2618F9F07300F6AB53 /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -302,7 +302,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9E9B337C18F86F3F00BBC39F /* Debug */ = {
+		9EA2ED2A18F9F07300F6AB53 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -340,7 +340,7 @@
 			};
 			name = Debug;
 		};
-		9E9B337D18F86F3F00BBC39F /* Release */ = {
+		9EA2ED2B18F9F07300F6AB53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -372,7 +372,7 @@
 			};
 			name = Release;
 		};
-		9E9B337F18F86F3F00BBC39F /* Debug */ = {
+		9EA2ED2D18F9F07300F6AB53 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -385,7 +385,7 @@
 			};
 			name = Debug;
 		};
-		9E9B338018F86F3F00BBC39F /* Release */ = {
+		9EA2ED2E18F9F07300F6AB53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -398,7 +398,7 @@
 			};
 			name = Release;
 		};
-		9E9B338218F86F3F00BBC39F /* Debug */ = {
+		9EA2ED3018F9F07300F6AB53 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Clarinet Fingering Chart.app/Clarinet Fingering Chart";
@@ -420,7 +420,7 @@
 			};
 			name = Debug;
 		};
-		9E9B338318F86F3F00BBC39F /* Release */ = {
+		9EA2ED3118F9F07300F6AB53 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Clarinet Fingering Chart.app/Clarinet Fingering Chart";
@@ -441,32 +441,32 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9E9B334718F86F3F00BBC39F /* Build configuration list for PBXProject "Clarinet Fingering Chart" */ = {
+		9EA2ECF518F9F07200F6AB53 /* Build configuration list for PBXProject "Clarinet Fingering Chart" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9E9B337C18F86F3F00BBC39F /* Debug */,
-				9E9B337D18F86F3F00BBC39F /* Release */,
+				9EA2ED2A18F9F07300F6AB53 /* Debug */,
+				9EA2ED2B18F9F07300F6AB53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9E9B337E18F86F3F00BBC39F /* Build configuration list for PBXNativeTarget "Clarinet Fingering Chart" */ = {
+		9EA2ED2C18F9F07300F6AB53 /* Build configuration list for PBXNativeTarget "Clarinet Fingering Chart" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9E9B337F18F86F3F00BBC39F /* Debug */,
-				9E9B338018F86F3F00BBC39F /* Release */,
+				9EA2ED2D18F9F07300F6AB53 /* Debug */,
+				9EA2ED2E18F9F07300F6AB53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		9E9B338118F86F3F00BBC39F /* Build configuration list for PBXNativeTarget "Clarinet Fingering ChartTests" */ = {
+		9EA2ED2F18F9F07300F6AB53 /* Build configuration list for PBXNativeTarget "Clarinet Fingering ChartTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9E9B338218F86F3F00BBC39F /* Debug */,
-				9E9B338318F86F3F00BBC39F /* Release */,
+				9EA2ED3018F9F07300F6AB53 /* Debug */,
+				9EA2ED3118F9F07300F6AB53 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9E9B334418F86F3F00BBC39F /* Project object */;
+	rootObject = 9EA2ECF218F9F07200F6AB53 /* Project object */;
 }
