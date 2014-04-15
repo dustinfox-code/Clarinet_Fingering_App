@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface DFViewController : UIViewController
-@property (strong, nonatomic) IBOutlet UIImageView *staffLineImageView;
+@property (strong, nonatomic) IBOutletCollection(UIImageView) NSArray *notesImageView;
+@property (strong, nonatomic) IBOutletCollection(UIImageView) NSArray *notesLabelImageView;
+@property (strong, nonatomic) IBOutlet UIImageView *cleffImageView;
 
 @end

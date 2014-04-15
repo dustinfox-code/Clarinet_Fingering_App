@@ -18,7 +18,8 @@
 {
     [super viewDidLoad];
     
-    self.staffLineImageView = [[UIImageView alloc] initWithImage:([UIImage imageNamed:@"staffLine"])];
+    self.cleffImageView = [[UIImage alloc] init];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
